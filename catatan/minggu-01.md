@@ -19,7 +19,7 @@ saya juga masih mengalami kesulitan saat menjalankan pengujian karena masih terd
 - Satu hal yang saya pahami lebih baik sekarang:
     Saya lebih memahami perbedaan  tiga paradigma pemrograman , yaitu prosedural yang fokus pada fungsi,OOP yang menggunakan class dan objek, serta fungsional yang menggunakn fungsional lamda.
 ## Hasil Pengujian
-    PS C:\Users\ismat\Documents\OOP\oop-202601-250202912\oop-202601-250202912> .\scripts\uji.ps1
+```    PS C:\Users\ismat\Documents\OOP\oop-202601-250202912\oop-202601-250202912> .\scripts\uji.ps1
 Menjalankan tes minggu 1 sampai 1  (groups: week1)
 [INFO] Scanning for projects...
 [INFO] Loaded 24571 auto-discovered prefixes for remote repository central (prefixes-central.txt)
@@ -112,3 +112,4 @@ Menjalankan tes minggu 1 sampai 1  (groups: week1)
 [INFO] Total time:  9.213 s
 [INFO] Finished at: 2026-11-22T12:23:46+07:00
 [INFO] ------------------------------------------------------------------------
+```
